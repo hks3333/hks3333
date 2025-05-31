@@ -1,9 +1,5 @@
 # Hi there 👋, I’m Harikrishnan
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&pause=2000&width=435&lines=Full-Stack+Developer;React+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🔭 About Me
