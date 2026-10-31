@@ -1,27 +1,40 @@
-# Hi there 👋, I’m Harikrishnan
+# Hi there 👋, I'm Harikrishnan
+
+Software developer at **IBM**, building and scaling tools, APIs, and LLM-powered systems in Python.
 
 ---
 
-## 🔭 About Me
-- Engineering student passionate about building end-to-end applications and leading projects that solve real-world challenges.  
-- Comfortable across the stack—from designing React interfaces to managing backend workflows.  
-- Hobbyist frontend enthusiast; I love experimenting new trends and UI libraries.  
+## 🚀 Featured Projects
+- **UniQ, Campus AI Assistant**: RAG pipeline with FAISS and a locally hosted LLaMA 3.2 to answer student queries from PDFs. FastAPI backend, Streamlit admin portal, Next.js frontend.
+- **Human in the Loop Orchestrator**: Event-driven agentic workflow system on LangGraph with persistent state and pause/resume/rollback via PostgreSQL checkpoints. FastAPI, RabbitMQ, Dramatiq, LangSmith.
+- **GeoWatch, Satellite Environmental Monitoring**: Full-stack geospatial app (React, FastAPI) using Google Earth Engine and Gemini for insights, deployed on Cloud Run with GitHub Actions CI/CD.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hks3333&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hks3333&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
@@ -36,5 +49,4 @@
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
